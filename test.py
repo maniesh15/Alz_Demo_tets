@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import warnings
 warnings.filterwarnings
 from nltk.sentiment import SentimentIntensityAnalyzer
-from demo_test import classify_sentiment, main  # Import functions from your app
+from demo_test import classify_sentiment, main  # Import functions from the demo_test app
 
 @pytest.fixture
 def sample_comments():
