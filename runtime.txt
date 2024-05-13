@@ -1,1 +1,4 @@
 python-3.10
+pytest
+json5==0.8.5
+nltk
